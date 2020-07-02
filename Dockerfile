@@ -1,4 +1,4 @@
-FROM alpine:3.11
+FROM node:12-alpine3.11
 
 ENV WRANGLER_LATEST_VERSION="v1.10.3"
 
