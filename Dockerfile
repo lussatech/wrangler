@@ -1,6 +1,6 @@
 FROM alpine:3.11
 
-ENV WRANGLER_LATEST_VERSION="v1.13.4"
+ENV WRANGLER_LATEST_VERSION="v1.10.3"
 
 # setup dependencies
 RUN apk add --update ca-certificates \
